@@ -1,0 +1,25 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid">
+    <div class="card card-success">
+        <div class="card-header">
+            <h3 class="card-title">Nạp tiền</h3>
+        </div>
+        <div class="card-body">
+            <form method="post" asp-controller="home" asp-action="deposit">
+                <div class="card-body">
+                    <div class="form-group">
+                        <label>Nạp tiền vào tài khoản</label>
+                        <input type="number" step="0.001" class="form-control" placeholder="Nhập số tiền" name="money"/>                
+                </div>
+                <!-- /.card-body -->
+                <div class="card-footer">
+                    <button type="submit" class="btn btn-primary">Nạp tiền</button>
+                </div>
+            </form>
+        </div>
+        <!-- /.card-body -->
+    </div>
+</div>

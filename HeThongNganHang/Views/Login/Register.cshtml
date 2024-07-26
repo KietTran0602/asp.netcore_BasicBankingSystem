@@ -1,0 +1,57 @@
+﻿@model HeThongNganHang.Models.Account
+
+<!DOCTYPE html>
+<!-- Created By CodingNepal -->
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <title>Login</title>
+    <link rel="stylesheet" href="~/css/Style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="title">
+            Login
+        </div>
+        
+        <form method="post" asp-controller="login" asp-action="register">
+            <div class="field">
+                @TempData["Msg"]
+            </div>
+            <div class="field">
+                <input type="text" required asp-for="Username">
+                <label>Username</label>
+            </div>
+
+            <div class="field">
+                <input type="password" required asp-for="Password">
+                <label>Password</label>
+            </div>
+
+            <div class="field">
+                <input type="text" required asp-for="FullName">
+                <label>FullName</label>
+            </div>
+
+            <div class="field">
+                <input type="text" required asp-for="Email">
+                <label>Email</label>
+            </div>
+
+            <div class="field">
+                <input type="text" required asp-for="Phone">
+                <label>Phone</label>
+            </div>
+            <input type="text" value="0" hidden asp-for="Balance"/>
+
+            <div class="field">
+                <input type="submit" value="Signup">
+            </div>
+
+            <div class="signup-link">
+                Aready a member? <a asp-controller="login" asp-action="login">Signin now</a>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

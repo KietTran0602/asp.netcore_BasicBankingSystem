@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|c:\\users\\trana\\source\\repos\\hethongnganhang\\hethongnganhang\\services\\transactionserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|solutionrelative:hethongnganhang\\services\\transactionserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|c:\\users\\trana\\source\\repos\\hethongnganhang\\hethongnganhang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|solutionrelative:hethongnganhang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|c:\\users\\trana\\source\\repos\\hethongnganhang\\hethongnganhang\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|solutionrelative:hethongnganhang\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|c:\\users\\trana\\source\\repos\\hethongnganhang\\hethongnganhang\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|solutionrelative:hethongnganhang\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|c:\\users\\trana\\source\\repos\\hethongnganhang\\hethongnganhang\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|solutionrelative:hethongnganhang\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|c:\\users\\trana\\source\\repos\\hethongnganhang\\hethongnganhang\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|solutionrelative:hethongnganhang\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|c:\\users\\trana\\source\\repos\\hethongnganhang\\hethongnganhang\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|solutionrelative:hethongnganhang\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|c:\\users\\trana\\source\\repos\\hethongnganhang\\hethongnganhang\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|solutionrelative:hethongnganhang\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|c:\\users\\trana\\source\\repos\\hethongnganhang\\hethongnganhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|solutionrelative:hethongnganhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|c:\\users\\trana\\source\\repos\\hethongnganhang\\hethongnganhang\\helpers\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|solutionrelative:hethongnganhang\\helpers\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|c:\\users\\trana\\source\\repos\\hethongnganhang\\hethongnganhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|solutionrelative:hethongnganhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|c:\\users\\trana\\source\\repos\\hethongnganhang\\hethongnganhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|solutionrelative:hethongnganhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|c:\\users\\trana\\source\\repos\\hethongnganhang\\hethongnganhang\\hethongnganhang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|solutionrelative:hethongnganhang\\hethongnganhang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|c:\\users\\trana\\source\\repos\\hethongnganhang\\hethongnganhang\\views\\home\\deposit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F10EF7EE-2E97-4117-924C-8BA3EC43D4AE}|HeThongNganHang\\HeThongNganHang.csproj|solutionrelative:hethongnganhang\\views\\home\\deposit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 217,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Views\\Login\\Register.cshtml",
+              "RelativeDocumentMoniker": "HeThongNganHang\\Views\\Login\\Register.cshtml",
+              "ToolTip": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Views\\Login\\Register.cshtml",
+              "RelativeToolTip": "HeThongNganHang\\Views\\Login\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T07:57:27.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "HeThongNganHang\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "HeThongNganHang\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T07:57:25.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "HeThongNganHang\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "HeThongNganHang\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:30:48.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "HeThongNganHang\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Services\\TransactionService.cs",
+              "RelativeToolTip": "HeThongNganHang\\Services\\TransactionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:51:54.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HeThongNganHang\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HeThongNganHang\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAQwHIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T07:30:56.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "HeThongNganHang\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "HeThongNganHang\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:27:37.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HeThongNganHang\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HeThongNganHang\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAgwGMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T06:57:38.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Services\\TransactionServiceImpl.cs",
+              "RelativeDocumentMoniker": "HeThongNganHang\\Services\\TransactionServiceImpl.cs",
+              "ToolTip": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Services\\TransactionServiceImpl.cs",
+              "RelativeToolTip": "HeThongNganHang\\Services\\TransactionServiceImpl.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAuwCkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:55:27.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Program.cs",
+              "RelativeDocumentMoniker": "HeThongNganHang\\Program.cs",
+              "ToolTip": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Program.cs",
+              "RelativeToolTip": "HeThongNganHang\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:45:04.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MailHelper.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Helpers\\MailHelper.cs",
+              "RelativeDocumentMoniker": "HeThongNganHang\\Helpers\\MailHelper.cs",
+              "ToolTip": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Helpers\\MailHelper.cs",
+              "RelativeToolTip": "HeThongNganHang\\Helpers\\MailHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:43:12.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HeThongNganHang",
+              "DocumentMoniker": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\HeThongNganHang.csproj",
+              "RelativeDocumentMoniker": "HeThongNganHang\\HeThongNganHang.csproj",
+              "ToolTip": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\HeThongNganHang.csproj",
+              "RelativeToolTip": "HeThongNganHang\\HeThongNganHang.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T06:34:30.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\appsettings.json",
+              "RelativeDocumentMoniker": "HeThongNganHang\\appsettings.json",
+              "ToolTip": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\appsettings.json",
+              "RelativeToolTip": "HeThongNganHang\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T06:41:28.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HeThongNganHang\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HeThongNganHang\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAYwKMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:23:58.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Deposit.cshtml",
+              "DocumentMoniker": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Views\\Home\\Deposit.cshtml",
+              "RelativeDocumentMoniker": "HeThongNganHang\\Views\\Home\\Deposit.cshtml",
+              "ToolTip": "C:\\Users\\trana\\source\\repos\\HeThongNganHang\\HeThongNganHang\\Views\\Home\\Deposit.cshtml",
+              "RelativeToolTip": "HeThongNganHang\\Views\\Home\\Deposit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T06:23:50.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
